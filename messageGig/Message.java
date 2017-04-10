@@ -12,5 +12,5 @@ public class Message{
 	public String getMessage(){
 		String message = content + " - by:" + user.getName() + "\n";
 		return message;
-	}
+	} 
 }
